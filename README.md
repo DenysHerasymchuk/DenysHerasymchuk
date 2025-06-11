@@ -1,8 +1,8 @@
 <img src="./src/github.png" style="margin: 0.1px;" />
 
-<h1>Hello world 👋, I'm Denys Herasymchuk (aka den1ska)</h1>
+# Hello world 👋, I'm Denys Herasymchuk (aka den1ska)
 
-### 👀 About Me
+## 👀 About Me
 <p>Fullstack and Application developer from Ukraine. Currently studying Applied Computer Science at Thomas More University.</p>
 
 <p>I'm a full-stack developer and content creator. I love building practical tools and projects that solve real-life problems — from planning, architecture and design, to coding and deployment. I also share my knowledge and journey via my YouTube channel <b>Den1sHerasymchuk</b>.</p>
@@ -22,7 +22,7 @@
   </span>
 </p>
 
-<h2>📊 GitHub Stats:</h2>
+## 📊 GitHub Stats: 
 <p align="center">
   <span style="display:inline-block; margin:4px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DenysHerasymchuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -35,15 +35,14 @@
   </span>
 </p>
 
-<h2>🔥 Top Contributed Repo:</h2>
+## 🔥 Top Contributed Repo:
 <p align="center">
   <span style="display:inline-block; margin:4px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=DenysHerasymchuk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   </span>
 </p>
 
-<h2>🍔 Technologies:</h2>
-    
+## 🍔 Technologies:
 <p align="left">
   <span style="display:inline-block; margin:0.1px;">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -167,15 +166,7 @@
   </span>
 </p>
 
-#
-
-<div align="center">
-  <img height="250" width="800" src="./src/github.gif" />
-</div>
-
-#
-
-<h2>🎴 My Social Media</h2>
+## 🎴 My Social Media
 
 <div align="left">
   <a href="https://www.youtube.com/@Den1sHerasymchuk">
@@ -194,6 +185,10 @@
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=proton&label=&color=6c4bff&logoColor=white&labelColor=&style=for-the-badge" height="35" style="margin: 2px;" />
   </a>
 </div>
+
+## 📺 Latest YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenysHerasymchuk/DenysHerasymchuk/output/github-snake-dark.svg" />
