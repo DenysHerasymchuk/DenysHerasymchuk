@@ -167,14 +167,6 @@
   </span>
 </p>
 
-#
-
-<div align="center">
-  <img height="250" width="800" src="./src/github.gif" />
-</div>
-
-#
-
 <h2>🎴 My Social Media</h2>
 
 <div align="left">
