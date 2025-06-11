@@ -166,11 +166,7 @@
   </span>
 </p>
 
-<<<<<<< HEAD
 ## 🎴 My Social Media
-=======
-<h2>🎴 My Social Media</h2>
->>>>>>> refs/remotes/origin/main
 
 <div align="left">
   <a href="https://www.youtube.com/@Den1sHerasymchuk">
