@@ -155,8 +155,8 @@
 <details>
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
-  
-  <!-- END YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 </details>
 
 ## 🎴 My Social Media
