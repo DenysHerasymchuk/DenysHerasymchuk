@@ -1,6 +1,4 @@
 # Hello world 👋, I'm Denys
-
-## 👀 About Me
 <p>Fullstack and Application developer from Ukraine. Currently studying Applied Computer Science at Thomas More University.</p>
 
 <p align="left">
@@ -12,7 +10,7 @@
   </span>
 </p>
 
-<details>
+<details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
   
   <p align="center">
