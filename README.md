@@ -6,8 +6,7 @@
   
   <p align="center">
     <span style="display:inline-block; margin:4px;">
-      <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=DenysHerasymchuk&theme=dark&hide_border=false" /> -->
-      ![Stats](./profile/stats.svg)
+      <img src="./profile/stats.svg" />
     </span>
   </p>
 </details>
