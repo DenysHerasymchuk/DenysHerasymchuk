@@ -12,12 +12,24 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DenysHerasymchuk?style=social)](https://twitter.com/DenysHerasymchuk) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DenysHerasymchuk&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/DenysHerasymchuk/) [![GitHub followers](https://img.shields.io/github/followers/DenysHerasymchuk.svg?label=Follow%20@DenysHerasymchuk&style=social)](https://github.com/DenysHerasymchuk/)
 
+<h3 align="left">Tech stack:</h3>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+
 # 📈 GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/DenysHerasymchuk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenysHerasymchuk&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysHerasymchuk&layout=compact&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysHerasymchuk&theme=vue-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenysHerasymchuk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysHerasymchuk&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysHerasymchuk&hide_border=true&background=00000000&ring=8b949e&fire=8b949e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=30363d"/>
 </a>
 </p>
