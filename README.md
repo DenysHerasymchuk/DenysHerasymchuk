@@ -18,7 +18,6 @@
 <a href="https://github.com/DenysHerasymchuk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenysHerasymchuk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysHerasymchuk&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysHerasymchuk&hide_border=true&background=00000000&ring=8b949e&fire=8b949e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&stroke=30363d"/>
 </a>
 </p>
 
@@ -32,6 +31,6 @@
 
 <p align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DenysHerasymchuk?style=social)](https://twitter.com/DenysHerasymchuk) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DenysHerasymchuk&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/DenysHerasymchuk/) [![GitHub followers](https://img.shields.io/github/followers/DenysHerasymchuk.svg?label=Follow%20@DenysHerasymchuk&style=social)](https://github.com/DenysHerasymchuk/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DenysHerasymchuk?style=social)](https://x.com/denherasymchuk) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DenysHerasymchuk&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/denysherasymchuk/) [![GitHub followers](https://img.shields.io/github/followers/DenysHerasymchuk.svg?label=Follow%20@DenysHerasymchuk&style=social)](https://github.com/DenysHerasymchuk/)
 
 </p>
