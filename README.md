@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.jpeg" alt="Pug on a garden chair" width="60%"></p>
+<p align="center"><img src="assets/banner.jpeg" alt="Pug on a garden chair"></p>
 
 <h2 align="center">Hey, I'm Denys</h2>
 
