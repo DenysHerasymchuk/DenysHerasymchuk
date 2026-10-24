@@ -3,14 +3,14 @@
 <h2 align="center">Hey, I'm Denys</h2>
 
 <p align="center">
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<a href="https://www.php.net"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code></a>
+<a href="https://www.typescriptlang.org"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code></a>
+<a href="https://tailwindcss.com"><code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code></a>
+<a href="https://laravel.com"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code></a>
+<a href="https://www.mysql.com"><code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
+<a href="https://www.kernel.org"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code></a>
 </p>
 
 <p align="center">
