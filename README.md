@@ -7,10 +7,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="32" src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 </p>
 
