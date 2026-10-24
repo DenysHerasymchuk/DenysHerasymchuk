@@ -30,6 +30,6 @@
 
 <p align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DenysHerasymchuk?style=social)](https://x.com/denherasymchuk) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=DenysHerasymchuk&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/denysherasymchuk/) [![GitHub followers](https://img.shields.io/github/followers/DenysHerasymchuk.svg?label=Follow%20@DenysHerasymchuk&style=social)](https://github.com/DenysHerasymchuk/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-30363d?logo=x&style=flat&logoColor=white&labelColor=161b22&color=30363d)](https://twitter.com/DenysHerasymchuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-30363d?logo=linkedin&style=flat&logoColor=white&labelColor=161b22&color=30363d)](https://www.linkedin.com/in/DenysHerasymchuk/) [![GitHub followers](https://img.shields.io/github/followers/DenysHerasymchuk?label=GitHub&logo=github&style=flat&logoColor=white&labelColor=161b22&color=30363d)](https://github.com/DenysHerasymchuk/)
 
 </p>
